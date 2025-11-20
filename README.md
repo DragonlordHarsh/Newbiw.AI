@@ -1,2 +1,2 @@
-# Newbiw.AI
+# Newbie.AI
 Created with CodeSandbox
